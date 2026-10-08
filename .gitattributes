@@ -1,0 +1,12 @@
+# 保留原始资料和源码的现有字节及换行。
+* -text
+
+# 二进制资料按整体版本保存，避免文本比较和自动合并。
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.dwg binary
+*.deb binary
+*.zip binary
+*.rar binary
+*.o binary
